@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-glide",
+    "name": "dmandrade/laravel-glide",
     "description": "Easily convert images with Glide",
     "homepage": "https://github.com/spatie/laravel-glide",
     "license": "MIT",
@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": "^7.0",
+        "php": "^5.4 | ^7.0",
         "illuminate/support": "5.*",
         "league/glide": "^1.0"
 
